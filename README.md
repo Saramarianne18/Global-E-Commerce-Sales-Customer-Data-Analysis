@@ -9,7 +9,7 @@ This project involves analyzing an e-commerce sales dataset using Power BI to cr
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze overall sales performance
 - Identify top-performing products and regions
 - Understand customer payment preferences
@@ -39,7 +39,7 @@ The dataset contains:
 
 ## 📊 Dashboard Features
 
-### 🔝 Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs)
 - Total Sales
 - Total Profit
 - Total Orders
@@ -95,7 +95,7 @@ Users can interact with filters to explore the data dynamically.
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Download the `.pbix` file  
 2. Open it in Power BI Desktop  
 3. Use slicers to explore the dashboard  
