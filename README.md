@@ -1,4 +1,8 @@
-# 📊 E-commerce Sales Dashboard (Power BI)
+# 📊 Global E-commerce Sales Dashboard (Power BI)
+
+## 📊 Dashboard Preview
+
+<img src="https://github.com/user-attachments/assets/a1c2a11c-105b-46c5-b888-5426b1937bd1" width="100%">
 
 ## 🔍 Project Overview
 This project involves analyzing an e-commerce sales dataset using Power BI to create an interactive dashboard. The goal was to transform raw data into meaningful insights through clear and effective visualizations.
@@ -86,7 +90,7 @@ Users can interact with filters to explore the data dynamically.
 ---
 
 ## 📁 Project Files
-- `Ecommerce_Dashboard.pbix` → Power BI file  
+- `Global E-commerce Sales.pbix` → Power BI file  
 - `dashboard.png` → Dashboard screenshot  
 
 ---
