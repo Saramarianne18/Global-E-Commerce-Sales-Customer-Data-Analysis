@@ -2,10 +2,12 @@
 
 ## 📊 Dashboard Preview
 
-<img src="https://github.com/user-attachments/assets/a1c2a11c-105b-46c5-b888-5426b1937bd1" width="100%">
+<img src="https://github.com/user-attachments/assets/c47c7235-27fa-4cab-b593-876d561c2636" width="100%">
+
 
 ## 🔗 Dashboard File
-https://drive.google.com/file/d/1EmgTYp6JbFfhZlvZf4XfqBbXTPisLQlF/view?usp=sharing
+
+https://drive.google.com/file/d/1zavHPp2E6da9XpSieM8pe8Wm992k_QQl/view?usp=sharing
 
 ---
 
