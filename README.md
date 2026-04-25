@@ -65,7 +65,7 @@ The dataset contains:
 - **Sales by Location (Map)**  
   Displays geographical sales distribution.
 
-### 🎛 Interactive Filters
+### Interactive Filters
 - Year
 - Product Category
 - Region
@@ -136,3 +136,6 @@ A **line chart** is best for showing trends over time because it clearly display
 
 ## 📌 Conclusion
 This project demonstrates the ability to turn raw data into meaningful insights using Power BI. It highlights skills in data visualization, analysis, and storytelling, making it a strong portfolio project.
+
+---
+**Author:** Marianne Ongondi 
