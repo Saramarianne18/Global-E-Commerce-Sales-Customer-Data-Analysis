@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-<img src="https://github.com/user-attachments/assets/c47c7235-27fa-4cab-b593-876d561c2636" width="100%">
+<img src="https://github.com/user-attachments/assets/94d4a766-ac62-4fbe-b909-3a50a4ae0886"  width="100%">
 
 
 ## 🔗 Dashboard File
