@@ -1,143 +1,223 @@
-# Global E-commerce Sales Dashboard (Power BI)
+# 📊 Global E-commerce Sales Dashboard (Power BI)
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 <img src="https://github.com/user-attachments/assets/94d4a766-ac62-4fbe-b909-3a50a4ae0886"  width="100%">
 
+---
 
-## 🔗 Dashboard File
+# Project Overview
 
-https://drive.google.com/file/d/1EmgTYp6JbFfhZlvZf4XfqBbXTPisLQlF/view?usp=sharing
+This project focuses on analyzing global e-commerce sales data using Microsoft Power BI.
+
+The goal was to transform raw sales data into meaningful business insights through interactive dashboards and visual storytelling. The dashboard helps analyze sales performance, customer purchasing behavior, regional performance, and product trends.
+
+Instead of viewing raw spreadsheets, users can interact with the dashboard to quickly identify patterns, opportunities, and business performance indicators.
 
 ---
 
-## 🔍 Project Overview
-This project involves analyzing an e-commerce sales dataset using Power BI to create an interactive dashboard. The goal was to transform raw data into meaningful insights through clear and effective visualizations.
+# Business Problem
+
+E-commerce businesses generate large amounts of sales data every day, but raw data alone does not provide meaningful insights.
+
+Without proper analysis, it becomes difficult to:
+
+* identify high-performing products,
+* track sales trends,
+* understand customer preferences,
+* evaluate regional performance,
+* and monitor overall business growth.
+
+This project addresses that challenge by transforming raw sales data into an interactive Power BI dashboard that supports data-driven decision-making.
 
 ---
 
-## Objectives
-- Analyze overall sales performance
-- Identify top-performing products and regions
-- Understand customer payment preferences
-- Visualize sales trends over time
-- Build an interactive dashboard for exploration
+# Project Objectives
+
+* Analyze overall sales and profit performance
+* Track sales trends over time
+* Identify top-performing products and regions
+* Understand customer payment preferences
+* Build an interactive dashboard for business analysis
+* Present insights using clear and effective visualizations
 
 ---
 
-## 🛠 Tools & Technologies
-- Microsoft Power BI
-- Power Query (Data Cleaning)
-- Data Visualization Techniques
+# Dataset Overview
 
----
-
-## 📁 Dataset
 The dataset contains:
-- Sales
-- Profit
-- Orders
-- Product categories
-- Regions
-- Payment methods
-- Dates
+
+* Sales transactions
+* Profit values
+* Orders
+* Product categories
+* Customer payment methods
+* Regional sales information
+* Order dates and time data
 
 ---
 
-## 📊 Dashboard Features
+# Tools & Technologies
 
-### Key Performance Indicators (KPIs)
-- Total Sales
-- Total Profit
-- Total Orders
 
-### 📈 Visualizations
-- **Sales Trend Over Time (Line Chart)**  
-  Shows how sales change across months and years.
-
-- **Sales by Region (Bar Chart)**  
-  Compares performance across regions.
-
-- **Top 5 Products by Sales (Bar Chart)**  
-  Highlights best-performing products.
-
-- **Sales by Payment Method (Donut Chart)**  
-  Shows customer payment preferences.
-
-- **Sales by Location (Map)**  
-  Displays geographical sales distribution.
-
-### Interactive Filters
-- Year
-- Product Category
-- Region
+| Tool               | Purpose                          |
+| ------------------ | -------------------------------- |
+| Power BI           | Dashboard development            |
+| Power Query        | Data cleaning and transformation |
+| DAX                | Calculated measures and analysis |
+| Data Modeling      | Relationship management          |
+| Data Visualization | Interactive reporting            |
 
 ---
 
-## 📈 Key Insights
-- North America generates the highest sales among regions.
-- Sales show fluctuations over time with noticeable peaks.
-- A small number of products contribute significantly to total revenue.
-- Credit Card is the most preferred payment method.
-- Some regions show lower performance, indicating growth opportunities.
+# Project Workflow
+
+```text
+Data Cleaning
+    ↓
+Data Transformation
+    ↓
+Data Modeling
+    ↓
+Dashboard Design
+    ↓
+Visualization Development
+    ↓
+Business Insights
+```
 
 ---
 
-## 📊 Visual Summary
-The dashboard provides a clear overview of e-commerce performance.
+# Data Cleaning & Transformation
 
-KPI cards give a quick snapshot of sales, profit, and orders.  
-The line chart shows trends over time.  
-Bar charts highlight regional and product performance.  
-The donut chart explains payment behavior.  
-The map adds geographical context.
+Before building the dashboard, the dataset was cleaned and transformed using Power Query.
 
-Users can interact with filters to explore the data dynamically.
+The following steps were performed:
 
----
+* Checked for missing values
+* Removed duplicate records
+* Corrected data types
+* Formatted date columns
+* Organized tables for analysis
+* Created calculated fields and measures
 
-## 📁 Project Files
-- `Global E-commerce Sales.pbix` → Power BI file  
-- `dashboard.png` → Dashboard screenshot  
+These steps helped improve data quality and dashboard performance.
 
 ---
 
-## How to Use
-1. Download the `.pbix` file  
-2. Open it in Power BI Desktop  
-3. Use slicers to explore the dashboard  
+# Dashboard Features
+
+## KPI Cards
+
+The dashboard includes KPI cards for:
+
+* Total Sales
+* Total Profit
+* Total Orders
+
+These provide a quick overview of business performance.
 
 ---
 
-## 🎓 Learning Outcomes
-- Data cleaning using Power Query  
-- Building interactive dashboards  
-- Applying visualization best practices  
-- Communicating insights effectively  
+## Visualizations Included
+
+
+| Visualization              | Purpose                                 |
+| -------------------------- | --------------------------------------- |
+| Sales Trend Line Chart     | Analyze sales performance over time     |
+| Sales by Region Bar Chart  | Compare regional performance            |
+| Top Products Chart         | Identify best-selling products          |
+| Payment Method Donut Chart | Understand customer payment preferences |
+| Sales Map Visualization    | Display geographical sales distribution |
 
 ---
 
-## ❓ Interview Questions
+# Interactive Features
 
-### Best chart for trends?
-A **line chart** is best for showing trends over time because it clearly displays patterns and changes.
+Users can explore the dashboard using:
 
-### Dashboard vs Report?
+* Year filters
+* Product category slicers
+* Region filters
 
-**Dashboard:**
-- Single page  
-- High-level overview  
-- Interactive  
-
-**Report:**
-- Multiple pages  
-- Detailed analysis  
-- Supports drill-down  
+These interactive features allow dynamic analysis and improve user experience.
 
 ---
 
-## 📌 Conclusion
-This project demonstrates the ability to turn raw data into meaningful insights using Power BI. It highlights skills in data visualization, analysis, and storytelling, making it a strong portfolio project.
+# Key Insights
+
+* North America generated the highest overall sales.
+* Sales performance fluctuated across different periods with noticeable peak months.
+* A small number of products contributed significantly to total revenue.
+* Credit Card was the most preferred payment method among customers.
+* Some regions showed lower sales performance, highlighting potential growth opportunities.
 
 ---
-**Author:** Marianne Ongondi 
+
+# Business Value
+
+This dashboard helps businesses:
+
+* monitor sales performance,
+* identify profitable regions,
+* understand customer purchasing behavior,
+* track product performance,
+* improve reporting efficiency,
+* and support data-driven business decisions.
+
+---
+
+# Skills Demonstrated
+
+* Data Cleaning & Transformation
+* Dashboard Design
+* Data Visualization
+* Business Intelligence
+* Data Storytelling
+* Analytical Thinking
+* Interactive Reporting
+* Business Analysis
+
+---
+
+# Challenges Faced
+
+One challenge during the project was organizing and transforming raw sales data into a clean structure suitable for dashboard analysis.
+
+Another challenge was selecting visualizations that clearly communicated business insights without overcrowding the dashboard. This was improved by using simple layouts, KPI cards, and interactive filters.
+
+---
+
+# Project Files
+
+```text
+global-ecommerce-sales-dashboard/
+│
+├── Dashboard/
+├── Dataset/
+├── README.md
+├── Global E-commerce Sales.pbix
+```
+
+---
+
+# Project Outcome
+
+This project demonstrates how Power BI can be used to transform raw e-commerce data into meaningful business insights through interactive dashboards and data visualization.
+
+The final dashboard provides a clear overview of sales performance and supports better business decision-making.
+
+---
+
+# Conclusion
+
+The project successfully transformed raw e-commerce sales data into an interactive and visually engaging Power BI dashboard. Through data cleaning, visualization, and business analysis, the dashboard provides valuable insights into sales trends, customer behavior, and regional performance.
+
+This project highlights practical skills in Power BI, business intelligence, and data storytelling while demonstrating the value of using data to support strategic business decisions.
+
+---
+
+# Author
+
+**Marianne Ongondi**
+
